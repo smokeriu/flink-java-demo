@@ -2,3 +2,5 @@
 /flink-streaming/target/
 /flink-table/target/
 /.idea/
+/flink-streaming/file/
+/flink-table/file/
