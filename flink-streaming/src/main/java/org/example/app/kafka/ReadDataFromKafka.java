@@ -2,7 +2,6 @@ package org.example.app.kafka;
 
 import org.apache.flink.api.java.utils.ParameterTool;
 import org.apache.flink.streaming.api.datastream.DataStream;
-import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.example.util.FlinkUtils;
 import org.example.util.KafkaUtils;
 
